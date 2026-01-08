@@ -17,7 +17,7 @@ public class KoneksiDB {
             Class.forName("org.postgresql.Driver");
             String url = "jdbc:postgresql://localhost:5432/db_perpus";
             String user = "postgres";
-            String pass = "083806"; // password kalian jangan lupa ubahh
+            String pass = "123"; // password kalian jangan lupa ubahh
             
             return DriverManager.getConnection(url, user, pass);
         } catch(Exception e) {
