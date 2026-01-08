@@ -16,6 +16,5 @@
     <nav>
         <span> Perpustakaan </span>
         <a href="index.jsp">Dashboard</a>
-        <a href="bookmark.jsp">Bookmark</a>
     </nav>
     <div class="container">
