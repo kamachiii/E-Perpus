@@ -42,9 +42,9 @@
                     <button class="btn btn-primary-custom shadow" onclick="mockBorrow('Clean Code', 'Robert C. Martin')">
                         <i class="fas fa-book-reader me-2"></i>Borrow Now
                     </button>
-                    <button class="btn btn-outline-secondary rounded-pill">
-                        <i class="far fa-heart me-2"></i> Add to Wishlist
-                    </button>
+                <a href="wishlist_proses.jsp?judul=Clean Code" class="btn btn-outline-secondary rounded-pill text-decoration-none d-flex align-items-center justify-content-center" style="height: 38px;">
+                    <i class="far fa-heart me-2"></i> Add to Wishlist
+                </a>
                 </div>
             </div>
 
