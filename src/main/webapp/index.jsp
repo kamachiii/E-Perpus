@@ -3,7 +3,7 @@
 <%@include file="WEB-INF/header.jsp" %>
 
 <div style="margin-top: 20px; padding: 20px;">
-    <h2>Dashboard: List Buku</h2>
+    <h2>List Buku</h2>
     
     <table border="1" style="width: 100%; border-collapse: collapse;">
         <tr style="background-color: #f2f2f2;">
