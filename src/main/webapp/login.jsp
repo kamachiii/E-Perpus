@@ -93,14 +93,6 @@
 
     <!-- Bootstrap Bundle with Popper -->
     <script src="assets/js/bootstrap.bundle.min.js "></script>
-    <script>
-        // Simple mock login script
-        document.getElementById('loginForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            // Simulate loading or validation here if needed
-            window.location.href = 'dashboard.jsp';
-        });
-    </script>
 </body>
 </html>
 
