@@ -15,6 +15,6 @@
 <body>
     <nav>
         <span> Perpustakaan </span>
-        <a href="index.jsp">Dashboard</a>
+        <a href="index.jsp">Menampilkan List Buku</a>
     </nav>
     <div class="container">
